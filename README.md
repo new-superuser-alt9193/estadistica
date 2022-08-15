@@ -5,3 +5,4 @@ En este repositorio se almacenaran los Jupyter Notebooks divididos por directori
 
 ## Workshops
 - [Workshop #1](./workshop_1/workshop_1.ipynb)
+- [Workshop #2](./workshop_2/workshop_2.ipynb)
